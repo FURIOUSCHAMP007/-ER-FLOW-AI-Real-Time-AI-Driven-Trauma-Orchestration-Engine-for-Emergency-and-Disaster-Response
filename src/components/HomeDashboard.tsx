@@ -74,9 +74,9 @@ export default function HomeDashboard({ onNavigate }: HomeDashboardProps) {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.1 }}
-          className="text-6xl font-black tracking-tighter leading-tight"
+          className="text-5xl md:text-6xl font-black tracking-tighter leading-tight max-w-4xl mx-auto"
         >
-          ER-FLOW <span className="text-[#FF4444]">AI</span> SYSTEM
+          ER-FLOW <span className="text-[#FF4444]">AI</span>: REAL-TIME, AI-DRIVEN TRAUMA ORCHESTRATION ENGINE
         </motion.h1>
         
         <motion.p 

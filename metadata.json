@@ -1,5 +1,5 @@
 {
-  "name": "ER-Flow AI",
+  "name": "ER-FLOW AI: Real-Time, AI-Driven Trauma Orchestration Engine for Emergency and Disaster Response",
   "description": "Advanced Emergency Room & Disaster Response AI powered by Gemini. Features real-time triage, Mass Casualty Incident (MCI) simulation, resource orchestration, and automated EMR generation.",
   "requestFramePermissions": ["microphone"]
 }

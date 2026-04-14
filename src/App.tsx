@@ -89,7 +89,10 @@ export default function App() {
           </div>
           <div>
             <h1 className="text-xl font-black tracking-tighter leading-none">ER-FLOW <span className="text-[#FF4444]">AI</span></h1>
-            <p className="text-[9px] font-mono text-[#4a4b4e] uppercase tracking-widest mt-1 font-bold">Orchestration v2.1</p>
+            <p className="text-[7px] font-mono text-[#4a4b4e] uppercase tracking-wider mt-1 font-bold leading-tight">
+              Real-Time Trauma Orchestration Engine<br/>
+              Emergency & Disaster Response
+            </p>
           </div>
         </div>
 

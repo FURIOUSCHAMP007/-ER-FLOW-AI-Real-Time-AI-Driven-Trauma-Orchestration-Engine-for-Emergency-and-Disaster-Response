@@ -1,4 +1,4 @@
-# ER-FLOW AI: Next-Gen Trauma Orchestration System
+# ER-FLOW AI: Real-Time, AI-Driven Trauma Orchestration Engine for Emergency and Disaster Response
 
 ER-FLOW AI is a high-performance clinical decision support engine designed to orchestrate trauma response from the field to the operating room. It leverages advanced machine learning to automate triage, resource allocation, and medical documentation, specifically optimized for high-stakes emergency environments and Mass Casualty Incidents (MCI).
 
